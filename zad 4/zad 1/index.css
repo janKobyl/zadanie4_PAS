@@ -1,0 +1,13 @@
+.left{
+    float:left;
+}
+.right{
+    float:left;
+}
+
+img:hover{
+    cursor: pointer;
+}
+.image-upload>input {
+    display: none;
+  }
